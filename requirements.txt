@@ -1,5 +1,5 @@
-keras
+tensorflow>=2.16
 numpy
-tensorflow
-streamlit
-
+pillow
+streamlit>=1.30
+pytest
